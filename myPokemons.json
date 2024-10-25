@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": "95755",
+            "name": "Успешный Статус",
+            "stage": "1",
+            "photo_id": 233,
+            "attack": 1,
+            "trainer_id": "11740",
+            "status": 1,
+            "in_pokeball": 0
+        },
+        {
+            "id": "95753",
+            "name": "nidoking",
+            "stage": "1",
+            "photo_id": 202,
+            "attack": 1,
+            "trainer_id": "11740",
+            "status": 1,
+            "in_pokeball": 0
+        },
+        {
+            "id": "82912",
+            "name": "raticate",
+            "stage": "3",
+            "photo_id": 266,
+            "attack": 7,
+            "trainer_id": "11740",
+            "status": 1,
+            "in_pokeball": 0
+        },
+        {
+            "id": "81167",
+            "name": "slowking",
+            "stage": "3",
+            "photo_id": 476,
+            "attack": 7,
+            "trainer_id": "11740",
+            "status": 1,
+            "in_pokeball": 0
+        },
+        {
+            "id": "80173",
+            "name": "gimmighoul",
+            "stage": "3",
+            "photo_id": 176,
+            "attack": 7,
+            "trainer_id": "11740",
+            "status": 1,
+            "in_pokeball": 0
+        }
+    ],
+    "next_page": false
+}
